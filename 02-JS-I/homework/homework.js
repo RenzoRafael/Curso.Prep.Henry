@@ -232,13 +232,22 @@ function esVocal(letra){
   //Escribe una función que reciba una letra y, si es una vocal, muestre el mensaje “Es vocal”. 
   //Verificar si el usuario ingresó un string de más de un carácter y, en ese caso, informarle 
   //que no se puede procesar el dato mediante el mensaje "Dato incorrecto".
-  if (letra.length > 1) {
-    return "Dato incorrecto"
-  }
-  if (letra === "a" || letra === "e" || letra === "i" || letra === "o" || letra === "u") {
-    return "Es vocal";
-  }
+// if (letra.length > 1){
+//   return ("Dato incorrecto");
+//   } else if (letra === "a" ││ letra === "e" ││ letra === "i" ││ letra === "o" ││ letra === "u"){
+//     return ("Es vocal")
+//   } else {
+//     return ("Dato incorrecto")
+//   }
+if (letra.length > 1){
+  return "Dato incorrecto";
+} if (letra === "a" || letra === "e" || letra === "i" || letra === "o" || letra === "u"){
+  return 'Es vocal';
 }
+return ("Dato incorrecto")
+
+
+} 
 
 
 
