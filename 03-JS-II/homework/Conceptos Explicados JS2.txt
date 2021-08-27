@@ -1,0 +1,3 @@
+Blucles For:
+
+Operadores lógicos (&&, ||, !):

@@ -1,0 +1,21 @@
+Variables:
+Semejantes a cajas que guardan un contenido, las variables contienenen valores (datos) que luego podremos usar
+segun lo requiramos.
+
+Strings:
+Son un tipo de dato y se refieren a cualquier conjunto de carecteres en el teclado
+(letras, números, espacios, símbolos, etc.) y van dentro de comillas simples o dobles.
+
+Funciones (argumentos, return):
+Las funciones llevan a cabo tareas ejecutando el codigo que éstas contengan.
+Podemos darle argumentos en forma de valores y variables que podemos usar en su bloque de codigo.
+Con return hacemos que nuestra función devuelva el valor del codigo que se está ejecutado a la vez
+que detiene la ejecución.
+
+Declaraciones if:
+Las Declaraciones if alteran el flujo de control ejecutando bloques de codigo si cumplen ciertas condiciones.
+Si la expresion dada es verdadera, el bloque de codigo se ejecutará. Si es falso, el codigo no se ejecutará.
+
+Valores booleanos (true, false):
+Siguiendo el concepto del código binario, éstos valores solo tienen dos posibilidaes: 
+Activar/desactivar; True/false; sí/no.
