@@ -1,0 +1,4 @@
+ARRAYS:
+Una manera de organizar información es hacer una lista donde sus elementos tendran un orden específico.
+Un Array representaría en JavaScript la funcion de una lista. Los Arrays a modo de litas, pueden contener
+distintos tipos de datos como elementos, incluyendo a otros Arrays.
